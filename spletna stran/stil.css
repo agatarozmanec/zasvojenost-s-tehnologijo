@@ -1,0 +1,40 @@
+h1,h2,h3 {color: #B3153F;}
+h1{text-align: center;}
+h2, h3{text-align: left;}
+h2, h3{font-size:15px;}
+h1 {font-size: 35px;}
+	p {color: #111111;}
+	p {font-style: "Times New Roman";}
+img {float:center;}
+a {text-decoration: none;
+	}
+body {background-color: #FFFFFF;}
+
+header {background-color: #FFF3CC;
+		color: blue;
+		text-align: center;
+		padding: 5px;
+}
+nav {
+	line-height: 50px;
+	font-size: 20px;
+	text-align: center;
+	background-color: #FEF2E0;
+	height: 1050px;
+	width: 15%;
+	float: left;
+	padding: 5px;
+}
+
+section {
+		float: left;
+		width: 70%;
+		padding: 10px;
+}
+footer {
+		background-color: #FFFFFF;
+		color: #000000;
+		clear: both;
+		text-align: center;
+		padding: 5px;
+}
